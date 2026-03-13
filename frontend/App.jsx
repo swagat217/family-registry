@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 
 // ─── CONFIG — change API URL and family name here ─────────────────────────────
-const API         = "family-registry-production.up.railway.app";
+const API         = "https://family-registry-production.up.railway.app";
 const FAMILY_NAME = "Our Family Registry"; // ← change to your family name
 
 // ─── Constants ────────────────────────────────────────────────────────────────
